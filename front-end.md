@@ -33,9 +33,11 @@
 - And finally choose ‘Show WorkSpace Recommended Extensions’
 <img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/800/1*9ZBdpY1COgTK-nqOgdhxVQ.png" src="https://cdn-images-1.medium.com/max/800/1*9ZBdpY1COgTK-nqOgdhxVQ.png">
 7. Install packages from the list
+
 Also you can add some keyboard shortcuts:
 
-```javascript [
+```json 
+[
  {
  “key”: “cmd+alt+i”,
  “command”: “editor.action.formatDocument”
@@ -45,6 +47,5 @@ Also you can add some keyboard shortcuts:
  “command”: “redo”
  }
 ]
-
-
+```
 😎 HAPPY HACKING 🙌🏼
