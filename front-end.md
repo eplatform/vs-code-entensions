@@ -6,7 +6,7 @@
 
 <img class="progressiveMedia-image js-progressiveMedia-image" data-src="https://cdn-images-1.medium.com/max/800/1*wf8ry089aLB2t_VqRk-8vg.png" src="https://cdn-images-1.medium.com/max/800/1*wf8ry089aLB2t_VqRk-8vg.png">
 4. Change content of extensions.json file with following snippet and save
-```json
+```javascript
 {
  // See http://go.microsoft.com/fwlink/?LinkId=827846
  // for the documentation about the extensions.json format
@@ -33,7 +33,7 @@
 7. Install packages from the list
 Also you can add some keyboard shortcuts:
 
-```json [
+```javascript [
  {
  “key”: “cmd+alt+i”,
  “command”: “editor.action.formatDocument”
