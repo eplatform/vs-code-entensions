@@ -8,7 +8,7 @@
 
 - Change content of extensions.json file with following snippet and save
 
-```javascript
+```
 {
  // See http://go.microsoft.com/fwlink/?LinkId=827846
  // for the documentation about the extensions.json format
@@ -36,7 +36,7 @@
 
 Also you can add some keyboard shortcuts:
 
-```json 
+``` 
 [
  {
  “key”: “cmd+alt+i”,
