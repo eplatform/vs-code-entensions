@@ -10,10 +10,8 @@
 
 ```
 {
- // See http://go.microsoft.com/fwlink/?LinkId=827846
- // for the documentation about the extensions.json format
  "recommendations": [
-  // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+  "zignd.html-css-class-completion",
   "formulahendry.auto-close-tag",
   "dzannotti.vscode-babel-coloring",
   "michelemelluso.code-beautifier",
@@ -24,7 +22,8 @@
   "christian-kohler.path-intellisense",
   "xabikos.ReactSnippets",
   "shinnn.stylelint",
-  "robertohuertasm.vscode-icons"
+  "robertohuertasm.vscode-icons",
+  "xyz.local-history"
  ]
 }
 ```
