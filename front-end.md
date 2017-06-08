@@ -23,7 +23,8 @@
   "xabikos.ReactSnippets",
   "shinnn.stylelint",
   "robertohuertasm.vscode-icons",
-  "xyz.local-history"
+  "xyz.local-history",
+  "jpoissonnier.vscode-styled-components"
  ]
 }
 ```
