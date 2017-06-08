@@ -10,22 +10,30 @@
 
 ```
 {
- "recommendations": [
-  "zignd.html-css-class-completion",
-  "formulahendry.auto-close-tag",
-  "dzannotti.vscode-babel-coloring",
-  "michelemelluso.code-beautifier",
-  "dbaeumer.vscode-eslint",
-  "donjayamanne.githistory",
-  "ecmel.vscode-html-css",
-  "abusaidm.html-snippets",
-  "christian-kohler.path-intellisense",
-  "xabikos.ReactSnippets",
-  "shinnn.stylelint",
-  "robertohuertasm.vscode-icons",
-  "xyz.local-history",
-  "jpoissonnier.vscode-styled-components"
- ]
+	"recommendations": [
+		"zignd.html-css-class-completion",
+		"formulahendry.auto-close-tag",
+		"dzannotti.vscode-babel-coloring",
+		"michelemelluso.code-beautifier",
+		"dbaeumer.vscode-eslint",
+		"donjayamanne.githistory",
+		"ecmel.vscode-html-css",
+		"abusaidm.html-snippets",
+		"christian-kohler.path-intellisense",
+		"xabikos.ReactSnippets",
+		"shinnn.stylelint",
+		"robertohuertasm.vscode-icons",
+		"xyz.local-history",
+		"jpoissonnier.vscode-styled-components",
+		"formulahendry.code-runner",
+		"eg2.vscode-npm-script",
+		"Shan.code-settings-sync",
+		"anseki.vscode-color",
+		"christian-kohler.npm-intellisense",
+		"eamodio.gitlens",
+		"waderyan.gitblame",
+		"liuji-jim.vue"
+	]
 }
 ```
 
